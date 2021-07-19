@@ -23,4 +23,4 @@ void setup() {
 #### Gomel Polytechnic College; Gomel State University Pavel Osipovich Sukhoi
 
 ## English Level:
-#### A2
+#### A2 (Pre-intermediate)
