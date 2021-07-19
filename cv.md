@@ -19,3 +19,8 @@ void setup() {
     for (int j=153; j<255; j++){  analogWrite(9, j); delay(50);   }
 }
 ```
+## Education:
+#### Gomel Polytechnic College; Gomel State University Pavel Osipovich Sukhoi
+
+## English Level:
+#### A2
