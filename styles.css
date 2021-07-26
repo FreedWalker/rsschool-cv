@@ -1,0 +1,44 @@
+.all {
+background-color:lavender;
+text-align: center;
+}
+.container{
+    display: flex;
+}
+.left{
+    flex-basis: 25%;
+    flex-direction: column;
+    background-color:azure;
+}
+.right{
+    flex-basis: 75%;
+    flex-direction: column;
+    background-color:honeydew;
+}
+.headling {
+    font-size:  20;
+}
+.text {
+    font-size:  14;
+}
+.contacts {
+    font-size:  14;
+    font-style: oblique;
+}
+.bottom_container{
+    display: flex;
+}
+.bottom_container_right{
+    flex-basis: 35%;
+    background-color:lavender;
+}
+.bottom_container_center{
+    flex-basis: 35%;
+    background-color:lavender;
+    font-size:  20;
+}
+.bottom_container_left{
+    flex-basis: 35%;
+    background-color:lavender;
+    font-size:  20;
+}
